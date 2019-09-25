@@ -1,17 +1,69 @@
 body,html{
-    background-color:#fff4bd;
+    background-color:#fff4db;
 }
 
 #painting {
-    background-color: #fff4db;
+    background-color: #fff4bd;
     width: 400px;
     height: 400px;
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 0px #8d8d8d;
+    box-shadow: 2px 2px 0px #8d8d8d;
+    ;
 }
+
+#painting2{
+    background-color:green;
+}
+
 
 #toprow{
     height: 290px;
+}
+
+#bigbox{
+    width: 290px;
+    height: 290px;
+    background-color:#cc3333;
+    float: right;
+}
+
+#divider1{
+    height: 290px;
+    width: 10px;
+    float: right;
+}
+
+.mediumbox{
+    width: 100px;
+    height: 140px;
+}
+
+#divider2{
+    height: 10px;
+    width: 100px;
+}
+
+#middlerow{
+    height: 10px;
+    width: 400px;
+}
+
+#divider3{
+    height: 100px;
+    width: 10px;
+}
+
+
+}
+
+.blue {
+    background-color: blue; 
+}
+.yellow {
+    background-color: yellow;   
+}
+.black {
+    background-color: black;   
 }
