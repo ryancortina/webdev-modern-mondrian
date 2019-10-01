@@ -59,7 +59,6 @@ body,html{
     width: 400px;
 }
 
-
 #bottomrow{
     height: 100px;
     width: 100px;
@@ -69,10 +68,32 @@ body,html{
 #divider3{
     height: 100px;
     width: 10px;
-    float: left;
 }
 
+#divider4{
+    height: 100px;
+    width: 10px;
+}
 
+#tinybox{
+    height: 45px;
+    width: 20px;
+    background-color: orange;
+}
+#divider5{
+    height:10px;
+    width: 20px;
+}
+#smallbox{
+    height:45px;
+    width: 20px;
+    background-color: hotpink;
+}
+#middlebox{
+    height: 100px;
+    width: 260px;
+    background-color: purple;
+}
 .blue {
     background-color: blue; 
 }
